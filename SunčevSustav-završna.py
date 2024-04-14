@@ -1,4 +1,4 @@
-#kada se simulacija pkrene pojaviti će se prozor pygamea te je potrebno maknuti taj prozor, NE isključiti program, i upisati koliko se planeta želi dodati (upisati 0 ako se ne želi dodati planete)
+#kada se simulacija pkrene pojaviti će se prozor pygamea te je potrebno pritisnuti - u gornjem desnom kutu, NE isključiti program, i upisati koliko se planeta želi dodati (upisati 0 ako se ne želi dodati planete)
 #kada se unesu podaci za nove planete ili 0 ako se ne želi unijeti novi planet potrebno je otvoriti prozor pygamea gdje se pojavi simulacija
 import pygame
 import math
