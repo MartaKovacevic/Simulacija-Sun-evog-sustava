@@ -1,5 +1,15 @@
-#kada se simulacija pkrene pojaviti će se prozor pygamea te je potrebno pritisnuti - u gornjem desnom kutu, NE isključiti program, i upisati koliko se planeta želi dodati (upisati 0 ako se ne želi dodati planete)
-#kada se unesu podaci za nove planete ili 0 ako se ne želi unijeti novi planet potrebno je otvoriti prozor pygamea gdje se pojavi simulacija
+
+#UPUTE ZA KORIŠTENJE PROGRAMA
+
+#kada se simulacija pkrene pojaviti će se prozor pygamea te je potrebno smanjiti prozor (pritisnuti - u gornjem desnom kutu), NE isključiti program
+#upisati koliko se planeta želi dodati (upisati 0 ako se ne želi dodati planete)
+#ako se unose vrijednosti one trebaju biti što sličnije onima koje planeti imaju jer taj novi planet utječe na cijeli sunčev sustav te mu putnja ne izgleda uvijek "lijepo"
+#primjer podataka za unos
+#kordinata x:6
+#kordinata y:3
+#masa planeta: 345632345532345643345
+#brzina planeta: 4593
+
 import pygame
 import math
 import random
