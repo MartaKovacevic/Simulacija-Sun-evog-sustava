@@ -8,6 +8,7 @@
 #kordinata x:6
 #kordinata y:3
 #masa planeta: 345632345532345643345
+#radijus planeta: 234345
 #brzina planeta: 4593
 
 import pygame
